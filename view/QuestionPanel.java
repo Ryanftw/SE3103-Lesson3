@@ -6,7 +6,7 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
-import javax.swing.JTextArea;
+//import javax.swing.JTextArea;
 import javax.swing.JTextField;
 
 import controller.QuestionButtonListener;
@@ -14,7 +14,7 @@ import controller.QuestionButtonListener;
 import java.awt.GridLayout;
 import java.awt.BorderLayout;
 
-import model.Question;
+//import model.Question;
 
 public class QuestionPanel {
 

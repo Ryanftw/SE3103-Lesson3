@@ -1,7 +1,6 @@
 import javax.swing.JFrame;
 
 import view.MenuScreen;
-import view.QuestionPanel;
 
 public class Main {
 
